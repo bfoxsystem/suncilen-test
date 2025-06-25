@@ -1,0 +1,4 @@
+pytz
+Flask
+websocket
+websocket-client
