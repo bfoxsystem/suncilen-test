@@ -1,4 +1,5 @@
 pytz
 Flask
 websocket
+websockets
 websocket-client
